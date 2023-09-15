@@ -1,5 +1,7 @@
 # Most basic in the world, rust web socket.
 
+Possible with Tungstenite.
+
 Let's get into a small introduction!
 
 ## What is this for?
