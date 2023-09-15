@@ -29,5 +29,5 @@ Virustotal: https://www.virustotal.com/gui/file/52c5f5592b2abd7e5b59366c6deb4755
 
 Or just build it yourself by
 
-> cargo run
+> cargo build
 
