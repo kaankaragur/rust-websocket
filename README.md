@@ -22,7 +22,11 @@ You can configure ports on the network you use for the server and your home inte
 ## Additional Information
 
 This program is being detected as "an unrecognized app", so you will get a warning screen from Microsoft itself.
+
+
 Virustotal: https://www.virustotal.com/gui/file/52c5f5592b2abd7e5b59366c6deb47554e0997678e3307d1ee38094a2b0bf937/detection
+
+
 Or just build it yourself by
 
 > cargo run
